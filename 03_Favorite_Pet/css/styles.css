@@ -1,0 +1,57 @@
+
+
+body {
+    background-color: #D3C0CD;
+    padding: 0px;
+    margin: 0px;
+}
+nav {
+    background-color: #62466B;
+    border-bottom: 1px solid black;
+}
+
+.nav-items {
+    display: inline-block;
+    padding: 15px;
+    background-color: #62466B;
+    color: white;
+
+}
+
+.pet-details {
+    width: 29%;
+    background-color: D3C0CD;
+    height: 500px;
+    float: left;
+}
+
+.pet-info {
+    width: 70%;
+    height: 500px;
+    float: right;
+}
+
+.pet-name { 
+    background-color: #D3C0CD;
+    text-align: center;
+    font-style: ;
+}
+
+.pet-stats ul li {
+        list-style-type: disc;
+        
+}
+ .pet-name img {
+    width: 75%;
+    padding-top: 20px;
+ }
+
+ .pet-info img {
+    width: 200px;
+    float: left;
+    padding-right: 15px;
+    padding-top: 20px;
+
+    
+ }
+
